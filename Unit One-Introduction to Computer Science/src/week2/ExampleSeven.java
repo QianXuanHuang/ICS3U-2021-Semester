@@ -1,4 +1,4 @@
-package week1;
+package week2;
 /**
  * fubak nidufuer - modifies the variable so that becomes a constant
  */
