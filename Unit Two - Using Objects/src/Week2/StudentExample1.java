@@ -20,7 +20,7 @@ public class StudentExample1 {
         ritchie.increaseGrade();
         //throws ajava.long.NullPointerException because ritchie
 
-        rastin.
-    }
+        double yolaAverage = yola.getAverage();
+        System.out.println(yola.getName() + " has an average of " + yolaAverage);
     
 }
